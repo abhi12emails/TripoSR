@@ -11,8 +11,36 @@ Steps for Implementation
 - Input a single 2D object image into the TripoSR model to rapidly generate a detailed 3D mesh.
 - Follow the official workflow for **TripoSR**, a state-of-the-art open-source model for **fast** feedforward 3D reconstruction from a single image, collaboratively developed by [Tripo AI](https://www.tripo3d.ai/) and [Stability AI](https://stability.ai/).
 
+<p align="center">
+  <img src="Spark AR Results/Television.png" alt="Television" style="display: inline-block; margin-right: 10px;">
+  <img src="Spark AR Results/Venom.png" alt="Venom" style="display: inline-block;">
+</p>
+
+
+
 2. Model Refinement in Blender
 - Import the generated mesh into Blender to clean, optimize, and enhance the 3D model’s details and textures.
 
+<p align="center">
+  <img src="Spark AR Results/Venom_Blender.png" alt="Blender" style="display: inline-block; margin-right: 10px;">
+</p>
+
+
 3. AR Integration with Spark AR Studio
 - Import the refined 3D model into Spark AR Studio for precise placement, scaling, and interaction within real-world augmented reality environments.
+
+
+<p align="center">
+  <img src="Spark AR Results/Table_SparkAR.png" alt="Table" style="display: inline-block; margin-right: 10px;">
+</p>
+
+<p align="center">
+   <img src="Spark AR Results/Venom_SparkAR.png" alt="Venom1" style="display: inline-block; margin-right: 10px;">
+</p>
+
+
+<p align="center">
+   <img src="Spark AR Results/Venom_SparkAR_2.png" alt="Venom2" style="display: inline-block; margin-right: 10px;">
+</p>
+
+
